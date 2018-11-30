@@ -37,4 +37,17 @@ Credits:
 	Other
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+*******************************************************************************
+
+Feature #1 | Refactor The CSS
+Estimate:
+Start:
+Finish:
+Actual:
+
+Feature #2 | Modify The Contents
+Estimate:
+Start:
+Finish:
+Actual:
